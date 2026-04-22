@@ -12,8 +12,8 @@
 ## 👥 Integrantes
 | Nombre Completo | Rol en el Proyecto | Usuario GitLab |
 | :--- | :--- | :--- |
-| Nicolas Garcia | Líder / Backend | @NikisRikis02 |
-| Juan Pablo Escobar | Frontend / UX | @juanpablo160 |
+| Nicolas Garcia | Líderito | @NikisRikis02 |
+| Juan Pablo Escobar | Editorsito / UX | @juanpablo160 |
 
 ---
 
