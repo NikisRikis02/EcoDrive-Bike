@@ -13,7 +13,7 @@
 | Nombre Completo | Rol en el Proyecto | Usuario GitLab |
 | :--- | :--- | :--- |
 | Nicolas Garcia | Líderito | @NikisRikis02 |
-| Juan Pablo Escobar | Editorsito / UX | @juanpablo160 |
+| Juan Pablo Escobar | Editorsito  | @juanpablo160 |
 
 ---
 
